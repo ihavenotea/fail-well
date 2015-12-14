@@ -1,0 +1,25 @@
+{
+  "name": "fail-well",
+  "version": "1.0.0",
+  "description": "Support material for Tech Talk on Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihavenotea/fail-well.git"
+  },
+  "author": "February Keeney",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ihavenotea/fail-well/issues"
+  },
+  "homepage": "https://github.com/ihavenotea/fail-well#readme",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "express": "^4.13.3",
+    "mocha": "^2.3.4",
+    "request": "^2.67.0"
+  }
+}
